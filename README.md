@@ -1,4 +1,4 @@
-# Week5
+# Week5.
 
 Instruction to clone the files to your local machine. 
 
